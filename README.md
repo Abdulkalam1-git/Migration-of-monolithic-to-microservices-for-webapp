@@ -1,7 +1,7 @@
 Migration of monolithic architecture to microservices for webApp
 Designed two webApps with two different approaches and provide its clear details.
-1. Monolithic is tightly coupled and runs on single server.
-2. Microservice is loosely coupled and runs on multiple server.
+1. Monolithic based webApp is tightly coupled and runs on single server.
+2. Microservice based webApp is loosely coupled and runs on multiple server.
 
 Technologies used:
 1. core java
