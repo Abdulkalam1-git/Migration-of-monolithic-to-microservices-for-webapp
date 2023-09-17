@@ -10,5 +10,6 @@ Technologies used:
 4. maven
 5. junit
 6. mongodb
-7. tomcat server.
+7. Postman-API 
+8. tomcat server.
 
