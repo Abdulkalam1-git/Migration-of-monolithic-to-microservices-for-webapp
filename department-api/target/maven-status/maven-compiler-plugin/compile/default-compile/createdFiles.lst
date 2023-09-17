@@ -1,0 +1,13 @@
+com\reactiveCRUD\universityApp\UniversityAppApplication.class
+com\reactiveCRUD\universityApp\controller\RegistrationController.class
+com\reactiveCRUD\universityApp\controller\DepartmentController.class
+com\reactiveCRUD\universityApp\service\EmployeeService.class
+com\reactiveCRUD\universityApp\service\RegistrationService.class
+com\reactiveCRUD\universityApp\model\Employee.class
+com\reactiveCRUD\universityApp\model\Student.class
+com\reactiveCRUD\universityApp\model\Student$StudentBuilder.class
+com\reactiveCRUD\universityApp\JsonDemo.class
+com\reactiveCRUD\universityApp\FirstExample.class
+com\reactiveCRUD\universityApp\model\Employee$EmployeeBuilder.class
+com\reactiveCRUD\universityApp\repository\RegistrationRepository.class
+com\reactiveCRUD\universityApp\controller\DeparmentController.class
