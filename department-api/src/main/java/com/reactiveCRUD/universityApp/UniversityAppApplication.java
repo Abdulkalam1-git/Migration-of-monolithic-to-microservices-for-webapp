@@ -12,7 +12,7 @@ public class UniversityAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UniversityAppApplication.class, args);
-		Logger log=Logger.getLogger("This is spring boot");
+		Logger log=Logger.getLogger("This is spring boot ");
 		log.info("this is my sample application");
 		
 		
